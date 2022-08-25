@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hi rizka there 👋
+[![Gmail Badge](https://img.shields.io/badge/-rizka.dewi.fatimah@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizka.dewi.fatimah@mail.ugm.ac.id)](mailto:rizka.dewi.fatimah@mail.ugm.ac.id) 
+- 🔭 I’m currently studying on Gadjah Mada University
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: instagram profile @rizka_dewi.f
+- 😄 Pronouns: She/Her
+- 😜 Fun fact : i like a cat😺
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=rdf154 alt=rdf154 /> </p>
 
-<!--
-**rdf154/rdf154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rdf154&show_icons=true&include_all_commits=true)](https://github.com/rdf154/github-readme-stats)
