@@ -1,4 +1,5 @@
-<https://user-images.githubusercontent.com/90583497/188755666-1a4a36cd-2846-4756-bbce-d7c85da26e43.mp4>
+![Presentasi Pendidikan Berkenalan dengan Pengukur Mood SEL Pembelajaran Sosial dan Emosional Stiker dan Lencana Gradien  Warna-warni](https://user-images.githubusercontent.com/90583497/188814517-55a93729-1e05-46e2-873e-aeccc96a7fd3.gif)
+
 ## Hi rizka there 👋
 [![Gmail Badge](https://img.shields.io/badge/-rizka.dewi.fatimah@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizka.dewi.fatimah@mail.ugm.ac.id)](mailto:rizka.dewi.fatimah@mail.ugm.ac.id) 
 - 🔭 I’m currently studying on Gadjah Mada University
