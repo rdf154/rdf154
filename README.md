@@ -1,3 +1,4 @@
+<https://user-images.githubusercontent.com/90583497/188755666-1a4a36cd-2846-4756-bbce-d7c85da26e43.mp4>
 ## Hi rizka there 👋
 [![Gmail Badge](https://img.shields.io/badge/-rizka.dewi.fatimah@mail.ugm.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizka.dewi.fatimah@mail.ugm.ac.id)](mailto:rizka.dewi.fatimah@mail.ugm.ac.id) 
 - 🔭 I’m currently studying on Gadjah Mada University
